@@ -1,4 +1,4 @@
-# IT’S NEVER TOO LATE: FUSING ACOUSTIC INFORMATION INTO LARGE LANGUAGE MODELS FOR AUTOMATIC SPEECH RECOGNITION
+## It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition
 
 [[Paper]](https://openreview.net/pdf?id=QqjFHyQwtF)
 
