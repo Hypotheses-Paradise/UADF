@@ -15,7 +15,7 @@ The core implement is in generate_uadf.py
 
 Before UADF fusion, you need: 
 1) Train your own ASR model that has same tokenizer with LLM.
-2) Train a Lora-based GER (generative error correction) model, please refer to [RobustGER](https://github.com/YUCHEN005/RobustGER) 
+2) Train a LLaMA-based GER (generative error correction) model, please refer to [RobustGER](https://github.com/YUCHEN005/RobustGER) 
                        
 With advancement of large speech langauge models, (1) and (2) can be implemented in a unified model by two separated lora-adapters, and then directly perform fusion during decoding.  
 
